@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '2092'
     url: http://www.gutenberg.org/2009/agents/2092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27096#The-Boy-Ranchers-on-Roaring-River--Or-Diamond-X-and-the-Chinese-Smugglers
 gutenberg_issued: '2008-10-29'
 gutenberg_type: Text
 identifiers:
