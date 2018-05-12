@@ -1,0 +1,33 @@
+_repo: The-Boy-Ranchers-on-Roaring-River--Or-Diamond-X-and-the-Chinese-Smugglers_27096
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hastings, Howard L. (Howard Livingston)
+    alias: Hastings, H. L. (Howard Livingston)
+    birthdate: 1887
+    gutenberg_agent_id: '7682'
+    url: http://www.gutenberg.org/2009/agents/7682
+covers:
+- cover_type: archival
+  image_path: 27096-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Baker, Willard F.
+    gutenberg_agent_id: '2092'
+    url: http://www.gutenberg.org/2009/agents/2092
+description: ''
+gutenberg_issued: '2008-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Illegal aliens -- Juvenile fiction'
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcsh 'Smuggling -- Juvenile fiction'
+title: The Boy Ranchers on Roaring River; Or, Diamond X and the Chinese Smugglers
+url: http://www.gutenberg.org/ebooks/27096
